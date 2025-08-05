@@ -30,7 +30,7 @@ class AboutMe:
 
 <br>
 
-<h2 align="left">💻 𝕊𝕜𝕚𝕝𝕝𝕤</h2>
+<h2 align="left">💻 𝕄𝕪 𝕊𝕜𝕚𝕝𝕝𝕤</h2>
 
 <h3 alihg="left">ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h3>
 
