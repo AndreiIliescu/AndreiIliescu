@@ -1,6 +1,8 @@
 <div align="center">
-<img align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
+<img align="center" src="logo.png" />
 </div>
+
+<br>
 
 <div align="center">
 <img alt="GIF" align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
