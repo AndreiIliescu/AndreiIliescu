@@ -1,4 +1,8 @@
 <div align="center">
+<img align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
+</div>
+
+<div align="center">
 <img alt="GIF" align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
 </div>
 
@@ -17,17 +21,10 @@ class AboutMe:
 
 
     def hobbies(self):
-        programming = "𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝒫𝓎𝓉𝒽𝑜𝓃, 𝐻𝒯𝑀𝐿𝟧, 𝒞𝒮𝒮𝟥, 𝒥𝒶𝓋𝒶𝒮𝒸𝓇𝒾𝓅𝓉 𝒶𝓃𝒹 𝓇𝑒𝓁𝒶𝓉𝑒𝒹 𝒻𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒻𝑜𝓇 𝓉𝒽𝑒𝓂."
+        programming = "𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝒫𝓎𝓉𝒽𝑜𝓃."
         practicing_judo = "𝐼 𝒽𝒶𝓋𝑒 𝒷𝑒𝑒𝓃 𝓅𝓇𝒶𝒸𝓉𝒾𝒸𝒾𝓃𝑔 𝒿𝓊𝒹𝑜 𝓈𝒾𝓃𝒸𝑒 𝟤𝟢𝟣𝟤, 𝒶𝓃𝒹 𝒶𝒸𝒽𝒾𝑒𝓋𝑒𝒹 𝓉𝒽𝑒 𝒷𝓇𝑜𝓌𝓃 𝒷𝑒𝓁𝓉."
         traveling = "𝐼 𝑒𝓃𝒿𝑜𝓎 𝓉𝓇𝒶𝓋𝑒𝓁𝒾𝓃𝑔 𝒶𝓃𝒹 𝒹𝒾𝓈𝒸𝑜𝓋𝑒𝓇𝒾𝓃𝑔 𝓃𝑒𝓌 𝓅𝓁𝒶𝒸𝑒𝓈, 𝓅𝑒𝑜𝓅𝓁𝑒, 𝒶𝓃𝒹 𝒸𝓊𝓁𝓉𝓊𝓇𝑒𝓈."
-        japan = """𝐼 𝒽𝒶𝓋𝑒 𝒶 𝒹𝑒𝑒𝓅 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉 𝒾𝓃 𝒥𝒶𝓅𝒶𝓃𝑒𝓈𝑒 𝒸𝓊𝓁𝓉𝓊𝓇𝑒, 𝒻𝓇𝑜𝓂 𝒾𝓉𝓈 𝓇𝑒𝒻𝒾𝓃𝑒𝒹 𝒶𝓇𝒸𝒽𝒾𝓉𝑒𝒸𝓉𝓊𝓇𝑒 𝒶𝓃𝒹 𝓂𝒾𝓃𝒾𝓂𝒶𝓁𝒾𝓈𝓉 𝒹𝑒𝓈𝒾𝑔𝓃
-                        𝓉𝑜 𝒾𝓉𝓈 𝓉𝓇𝒶𝒹𝒾𝓉𝒾𝑜𝓃𝒶𝓁 𝒸𝓊𝓈𝓉𝑜𝓂𝓈, 𝓋𝒶𝓁𝓊𝑒𝓈, 𝒶𝓃𝒹 𝓌𝒶𝓎 𝑜𝒻 𝓁𝒾𝒻𝑒."""
-        video_games = "𝐼𝓃 𝓂𝓎 𝒻𝓇𝑒𝑒 𝓉𝒾𝓂𝑒, 𝐼 𝓁𝒾𝓀𝑒 𝓉𝑜 𝓅𝓁𝒶𝓎 𝓋𝒾𝒹𝑒𝑜 𝑔𝒶𝓂𝑒𝓈, 𝑒𝓍𝓅𝓁𝑜𝓇𝑒 𝒻𝒶𝓃𝓉𝒶𝓈𝓎 𝓌𝑜𝓇𝓁𝒹𝓈, 𝒶𝓃𝒹 𝑒𝓃𝒿𝑜𝓎 𝒶 𝑔𝑜𝑜𝒹 𝓈𝓉𝑜𝓇𝓎."
 ```
-
-<div align="center">
-<img alt="GIF" align="center" src="https://tenor.com/ro/view/satoru-gojo---correndo-gif-3542481902885275990.gif" />
-</div>
 
 <br>
 
@@ -36,27 +33,6 @@ class AboutMe:
 <h3 alihg="left">ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<h3 alihg="left">𝔽𝕣𝕠𝕟𝕥-𝔼𝕟𝕕 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤</h3>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-<h3 alihg="left">𝔹𝕒𝕔𝕜-𝔼𝕟𝕕 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤</h3>
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-<h3 alihg="left">𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖 𝕤𝕪𝕤𝕥𝕖𝕞𝕤</h3>
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <h3 alihg="left">𝕄𝕊 𝕆𝕗𝕗𝕚𝕔𝕖 𝕊𝕦𝕡𝕡𝕠𝕣𝕥</h3>
 
@@ -117,7 +93,6 @@ class AboutMe:
 [![Certificate](https://img.shields.io/badge/EXCEL-CERTIFICATE-green?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1jtVpOTcrNT0CcLCN3bjgEoXb1_zvITOp/view?usp=drive_link)
 [![Certificate](https://img.shields.io/badge/DIGITAL-COMPETENCES-cyan?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1cn8xWFjPh2XyYY6JygmSFaobJmLtSoAU/view?usp=drive_link)
 [![Certificate](https://img.shields.io/badge/PYTHON-CERTIFICATE-blue?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/16-JYJ4Pz8AevMgTDE8HSac0sq9b18WFu/view?usp=drive_link)
-[![Certificate](https://img.shields.io/badge/JAVASCRIPT-CERTIFICATE-yellow?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1WDfDQmNRTMXYnKky16k0VeY5x6oojPhA/view?usp=drive_link)
 
 <br>
 
@@ -144,41 +119,30 @@ class AboutMe:
 [![Email Yahoo](https://img.shields.io/badge/Email-andrey_iliescu%40yahoo.com-6001D2?style=for-the-badge&logoColor=white)](mailto:andrey_iliescu@yahoo.com)<br>
 [![Email Gmail](https://img.shields.io/badge/Gmail-andrei.iliescu13102000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.iliescu13102000@gmail.com)
 
-<h3 alihg="left">𝕍𝕚𝕖𝕨 𝕞𝕪 ℂ𝕍</h3>
-
-[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1LiTntApICDtTU4rdVN9zkXjziz68F7Is/view?usp=drive_link)
-
 <br>
 
 <h2 align="left">📊 𝔾𝕚𝕥ℍ𝕦𝕓 𝕊𝕥𝕒𝕥𝕤</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=xAndreiix&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xAndreiix&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xAndreiix&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AndreiIliescu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AndreiIliescu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiIliescu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
 <h2 align="left">🏆 𝔾𝕚𝕥ℍ𝕦𝕓 𝕋𝕣𝕠𝕡𝕙𝕚𝕖𝕤</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=xAndreiix&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AndreiIliescu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 
 <h2 align="left">🔝 𝕋𝕠𝕡 ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕖𝕕 ℝ𝕖𝕡𝕠</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=xAndreiix&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-
-<br>
-
-<h2 align="left">💰 𝕀𝕗 𝕪𝕠𝕦 𝕨𝕒𝕟𝕥 𝕥𝕠 𝕤𝕦𝕡𝕡𝕠𝕣𝕥 𝕞𝕖 𝕚𝕟 𝕞𝕪 𝕛𝕠𝕦𝕣𝕟𝕖𝕪</h2>
-
-[![PayPal](https://img.shields.io/badge/PayPal-xAndreiix-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xAndreiix)<br>
-[![Revolut](https://img.shields.io/badge/Revolut-xAndreiix-001B2E?style=for-the-badge&logoColor=white)](https://revolut.me/xandreiix)
+![](https://github-contributor-stats.vercel.app/api?username=AndreiIliescu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br>
 
 <h1 align="center">👋🏻 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕤𝕥𝕠𝕡𝕡𝕚𝕟𝕘 𝕓𝕪! 👋🏻</h1>
 
 <div align="center">
-<img alt="GIF" align="center" src="https://media1.tenor.com/m/wPRS-ZXgVYcAAAAC/bye-bye.gif" />
+<img alt="GIF" align="center" src="https://gifdb.com/images/high/homer-simpson-goodbye-ujpm7gehdduo0m1h.gif" />
 </div>
