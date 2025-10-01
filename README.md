@@ -16,7 +16,7 @@
 
 ```python
 class AboutMe:
-    def __init__(self, name, age, location):
+    def __init__(self):
         self.name = "𝒜𝓃𝒹𝓇𝑒𝒾 𝐼𝓁𝒾𝑒𝓈𝒸𝓊"
         self.age = "𝟤𝟦 𝓎𝑒𝒶𝓇𝓈 𝑜𝓁𝒹"
         self.location = "𝐵𝓊𝒸𝒽𝒶𝓇𝑒𝓈𝓉, 𝑅𝑜𝓂𝒶𝓃𝒾𝒶"
