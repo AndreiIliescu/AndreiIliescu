@@ -86,18 +86,11 @@ class AboutMe:
 
 <h2 align="left">🎓 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟</h2>
 
-| Level of Specialization       | Educational Institution                   | Academic Specialization                                                                          | Study Period    |
-| ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- |
-| **Master's Degree**           | **Bucharest Academy of Economic Studies** | **Tourism Business Administration**                                                              | **2022 — 2024** |
-| **Bachelor's Degree**         | **Bucharest Academy of Economic Studies** | **Business Administration in Commerce, Tourism, Services, Merchandising and Quality Management** | **2019 — 2022** |
-
-<br>
-
-<h2 align="left">📜 ℂ𝕠𝕦𝕣𝕤𝕖𝕤</h2>
-
-| Cours Name                                             | Platform / Institution                                     | Study Period           |
-| ------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- |
-| **Python Developer from Scratch**                      | **Software Development Academy Romania**                   | **06/2025 — 03/2026**  |
+| Level of Specialization       | Educational Institution                   | Academic Specialization                                                                          | Study Period          |
+| ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------- |
+| **Certificate**               | **Software Development Academy Romania**  | **Python Developer from Scratch**                                                                | **06/2025 — 03/2026** |
+| **Master's Degree**           | **Bucharest Academy of Economic Studies** | **Tourism Business Administration**                                                              | **2022 — 2024**       |
+| **Bachelor's Degree**         | **Bucharest Academy of Economic Studies** | **Business Administration in Commerce, Tourism, Services, Merchandising and Quality Management** | **2019 — 2022**       |
 
 <br>
 
