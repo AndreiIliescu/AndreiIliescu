@@ -98,7 +98,7 @@ class AboutMe:
 
 | Cours Name                                             | Platform / Institution                                     | Study Period           |
 | ------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- |
-| **Python Developer from Scratch**                      | **Software Development Academy Romania**                   | **06/2025 — 03/2026**        |
+| **Python Developer from Scratch**                      | **Software Development Academy Romania**                   | **06/2025 — 03/2026**  |
 
 <br>
 
@@ -120,9 +120,6 @@ class AboutMe:
 <h3 align="left">𝕊𝕠𝕔𝕚𝕒𝕝 𝕄𝕖𝕕𝕚𝕒</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AndreiIliescu11)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andreii_iliescu)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/AndreiIliescu13102000)
 
 <h3 align="left">𝔹𝕦𝕤𝕚𝕟𝕖𝕤𝕤 𝔼-𝕄𝕒𝕚𝕝</h3>
 
