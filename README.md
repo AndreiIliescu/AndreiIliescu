@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="GIF" align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
+    <img alt="GIF" align="center" src="https://d1w82usnq70pt2.cloudfront.net/wp-content/uploads/2023/06/star-wars-obi-wan-kenobi.gif" />
 </div>
 
 <h1 align="center">✌🏻 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝔾𝕚𝕥ℍ𝕦𝕓 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 ✌🏻</h1>
@@ -26,7 +26,7 @@ class AboutMe:
 ```
 
 <div align="center">
-<img alt="GIF" align="center" src="https://tenor.com/ro/view/satoru-gojo---correndo-gif-3542481902885275990.gif" />
+    <img alt="GIF" align="center" src="https://tenor.com/ro/view/satoru-gojo---correndo-gif-3542481902885275990.gif" />
 </div>
 
 <br>
@@ -44,7 +44,7 @@ class AboutMe:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  -->
 
 <h3 alihg="left">𝔹𝕒𝕔𝕜-𝔼𝕟𝕕 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤</h3>
 
@@ -87,7 +87,7 @@ class AboutMe:
 | **Customer Service Agent**    | **Condec Consulting SRL**  | **Accountancy**               | **09/2020 — 04/2025** |
 
 <div align="center">
-<img alt="GIF" align="center" src="https://y.yarn.co/58bddecc-3057-4eb5-919d-9fa6ab73a236_text.gif" />
+    <img alt="GIF" align="center" src="https://y.yarn.co/58bddecc-3057-4eb5-919d-9fa6ab73a236_text.gif" />
 </div>
 
 <br>
@@ -106,9 +106,9 @@ class AboutMe:
 
 | Cours Name                                             | Platform / Institution                                     | Study Period           |
 | ------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- |
-| **Python Developer from Scratch**                      | **Software Development Academy Romania**                   | **2025 — In progress** |
-| **The Complete Full-Stack Web Developer Bootcamp**     | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025 — In progress** |
-| **100 Days of Code: The Complete Python Pro Bootcamp** | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025 — In progress** |
+| **Python Developer from Scratch**                      | **Software Development Academy Romania**                   | **2025 — 2026** |
+| **The Complete Full-Stack Web Developer Bootcamp**     | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025** |
+| **100 Days of Code: The Complete Python Pro Bootcamp** | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025** |
 
 <br>
 
@@ -179,8 +179,8 @@ class AboutMe:
 
 <br>
 
-<h1 align="center">👋🏻 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕤𝕥𝕠𝕡𝕡𝕚𝕟𝕘 𝕓𝕪! 👋🏻</h1>
+<h2 align="center">👋🏻 𝕋𝕙𝕒𝕟𝕜 𝕪𝕠𝕦 𝕗𝕠𝕣 𝕤𝕥𝕠𝕡𝕡𝕚𝕟𝕘 𝕓𝕪! 👋🏻</h1>
 
 <div align="center">
-<img alt="GIF" align="center" src="https://media1.tenor.com/m/wPRS-ZXgVYcAAAAC/bye-bye.gif" />
+    <img alt="GIF" align="center" src="https://media1.tenor.com/m/wPRS-ZXgVYcAAAAC/bye-bye.gif" />
 </div>
