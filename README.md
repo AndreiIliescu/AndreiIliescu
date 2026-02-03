@@ -90,7 +90,6 @@ class AboutMe:
 | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------- |
 | **Master's Degree**           | **Bucharest Academy of Economic Studies** | **Tourism Business Administration**                                                              | **2022 — 2024** |
 | **Bachelor's Degree**         | **Bucharest Academy of Economic Studies** | **Business Administration in Commerce, Tourism, Services, Merchandising and Quality Management** | **2019 — 2022** |
-| **Baccalaureate Diploma**     | **"Hermes" Economic College, Bucharest**  | **Trade Activities Technician**                                                                  | **2015 — 2019** |
 
 <br>
 
@@ -112,10 +111,6 @@ class AboutMe:
 <br>
 
 <h2 align="left">🌐 𝔾𝕖𝕥 𝕚𝕟 𝕋𝕠𝕦𝕔𝕙 𝕨𝕚𝕥𝕙 𝕄𝕖</h2>
-
-<h3 align="left">ℙ𝕖𝕣𝕤𝕠𝕟𝕒𝕝 𝕎𝕖𝕓𝕤𝕚𝕥𝕖 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠</h3>
-
-[![Website](https://img.shields.io/badge/Website-PORTFOLIO-ff5500?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://andrei-iliescu-portfolio.netlify.app/)
 
 <h3 align="left">𝕊𝕠𝕔𝕚𝕒𝕝 𝕄𝕖𝕕𝕚𝕒</h3>
 
