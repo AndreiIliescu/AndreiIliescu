@@ -104,9 +104,9 @@ class AboutMe:
 
 <h2 align="left">📃 ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕖𝕤</h2>
 
+[![Certificate](https://img.shields.io/badge/PYTHON-CERTIFICATE-blue?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/16-JYJ4Pz8AevMgTDE8HSac0sq9b18WFu/view?usp=drive_link)
 [![Certificate](https://img.shields.io/badge/EXCEL-CERTIFICATE-dark_green?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1jtVpOTcrNT0CcLCN3bjgEoXb1_zvITOp/view?usp=drive_link)
 [![Certificate](https://img.shields.io/badge/DIGITAL-COMPETENCES-cyan?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/1cn8xWFjPh2XyYY6JygmSFaobJmLtSoAU/view?usp=drive_link)
-[![Certificate](https://img.shields.io/badge/PYTHON-CERTIFICATE-blue?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/16-JYJ4Pz8AevMgTDE8HSac0sq9b18WFu/view?usp=drive_link)
 [![Certificate](https://img.shields.io/badge/EXPRESSOFT-CERTIFICATE-red?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://drive.google.com/file/d/121MxfbCWFBpmOfaNe-IhipYWTcjwODya/view?usp=drive_link)
 
 <br>
