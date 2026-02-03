@@ -98,9 +98,7 @@ class AboutMe:
 
 | Cours Name                                             | Platform / Institution                                     | Study Period           |
 | ------------------------------------------------------ | ---------------------------------------------------------- | ---------------------- |
-| **Python Developer from Scratch**                      | **Software Development Academy Romania**                   | **2025 — 2026**        |
-| **100 Days of Code: The Complete Python Pro Bootcamp** | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025**               |
-| **The Complete Full-Stack Web Developer Bootcamp**     | **Udemy (Instructor: Dr. Angela Yu - London App Brewery)** | **2025**               |
+| **Python Developer from Scratch**                      | **Software Development Academy Romania**                   | **06/2025 — 03/2026**        |
 
 <br>
 
