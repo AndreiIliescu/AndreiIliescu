@@ -31,7 +31,7 @@ class AboutMe:
 
 <br>
 
-<h2 align="left">💻 𝕊𝕜𝕚𝕝𝕝𝕤</h2>
+<h2 align="left">💻 𝕋𝕖𝕔𝕙𝕟𝕚𝕔𝕒𝕝 𝕊𝕜𝕚𝕝𝕝𝕤</h2>
 
 <h3 align="left">ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤</h3>
 
@@ -67,10 +67,12 @@ class AboutMe:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<!-- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) -->
 
 <br>
 
+<h2 align="left"> 𝕊𝕠𝕗𝕥 𝕊𝕜𝕚𝕝𝕝𝕤</h2>
+
+<br>
 
 <h2 align="left">💼 𝕎𝕠𝕣𝕜 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖</h2>
 
