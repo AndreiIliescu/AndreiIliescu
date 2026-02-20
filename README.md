@@ -96,7 +96,7 @@ class AboutMe:
 
 <h3>Nova Sushi Restaurant Web App</h3>
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>/nova-sushi-webapp)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreiIliescu/sda-final-project)
 
 • Developed a full-stack web application for a restaurant using Django and SQLite.<br>
 • Implemented user authentication, profile management, and order history functionality.<br>
@@ -150,7 +150,7 @@ class AboutMe:
 
 <h3>𝕍𝕚𝕖𝕨 𝕞𝕪 ℂ𝕍</h3>
 
-[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1T4FkXCfXqxpjwEfb9UUVfYJavS6FSSHh/view?usp=drive_link)
+[![View CV](https://img.shields.io/badge/View_CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/19GQxUvQxXRQUL1qQYPZ6X3MJXCCAbkDu/view?usp=drive_link)
 
 <br>
 
