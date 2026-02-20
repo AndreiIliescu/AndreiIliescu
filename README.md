@@ -140,7 +140,7 @@ class AboutMe:
 
 <h2>🌐 𝔾𝕖𝕥 𝕚𝕟 𝕋𝕠𝕦𝕔𝕙 𝕨𝕚𝕥𝕙 𝕄𝕖</h2>
 
-<h3>𝕊𝕠𝕔𝕚𝕒𝕝 𝕄𝕖𝕕𝕚𝕒</h3>
+<h3>𝔾𝕖𝕥 𝕚𝕟 𝕋𝕠𝕦𝕔𝕙</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214)
 
