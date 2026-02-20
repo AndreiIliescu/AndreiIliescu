@@ -18,6 +18,8 @@ class AboutMe:
         self.location = "𝐵𝓊𝒸𝒽𝒶𝓇𝑒𝓈𝓉, 𝑅𝑜𝓂𝒶𝓃𝒾𝒶"
 
 
+
+
     def hobbies(self):
         programming = "𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 𝒫𝓎𝓉𝒽𝑜𝓃, 𝒶𝓃𝒹 𝓇𝑒𝓁𝒶𝓉𝑒𝒹 𝒻𝓇𝒶𝓂𝑒𝓌𝑜𝓇𝓀𝓈 𝒻𝑜𝓇 𝒾𝓉."
 
