@@ -142,7 +142,7 @@ class AboutMe:
 
 <h3>𝔾𝕖𝕥 𝕚𝕟 𝕋𝕠𝕦𝕔𝕙</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrei_iliescu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-iliescu-aa7910214)
 
 <h3>𝔹𝕦𝕤𝕚𝕟𝕖𝕤𝕤 𝔼-𝕄𝕒𝕚𝕝</h3>
 
